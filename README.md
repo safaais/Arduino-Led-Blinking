@@ -3,15 +3,15 @@
 This project shows how control the brightness of a red LED using an Arduino Uno board.
 
 ## Components:
- Arduino Uno Board
+ Arduino Uno Board.
  
- Breadboard
+ Breadboard.
  
- Red LED
+ Red LED.
  
- Resistor
+ Resistor.
  
- Wires
+ Wires.
 
 
 ## Code:
