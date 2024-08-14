@@ -3,11 +3,15 @@
 This project shows how control the brightness of a red LED using an Arduino Uno board.
 
 ## Components:
-#### Arduino Uno Board
-#### Breadboard
-#### Red LED
-#### Resistor
-#### Wires
+ Arduino Uno Board
+ 
+ Breadboard
+ 
+ Red LED
+ 
+ Resistor
+ 
+ Wires
 
 
 ## Code:
@@ -28,6 +32,9 @@ void loop() {
 ```
 
 ## Circuit:
-![image alt]()
+
+Here’s a simple LED control system. The Arduino receives instructions from the code, processes them, and then sends signals to the LED through the resistor, controlling its brightness.
+
+![image alt](https://github.com/safaais/Arduino-Led-Blinking/blob/ec670f14db78a029e962fa7a54d282f9c640eae6/IMG_2713.jpg)
 
 https://www.tinkercad.com/things/gE2IVvx2yv1-fantabulous-turing-jofo
